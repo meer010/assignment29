@@ -1,0 +1,47 @@
+ul{
+    border-bottom: solid#fff;
+    display:flex;
+    align-content: center;
+    justify-content: center;
+    padding: 30px;
+}
+ul li{
+    list-style: none;
+
+}
+ul li a{
+    text-transform: uppercase;
+  font-weight: bold;
+  color:rgba(230, 223, 187, 0.61);
+  font-size: 1.5em;
+  text-decoration: none;
+  padding: 2em;
+  letter-spacing: 1px;
+}
+ul li a:hover {
+    border-top:3px solid ;
+   
+    border-bottom: 3px solid #fff;
+}
+.header {
+    padding: 20px;
+    height: 500vh;
+    background-size: cover;
+  position: relative;
+  color:rgba(230, 223, 187, 0.61);
+}
+body{
+    background: linear-gradient(to bottom, #16222a, #4e4376);
+    color:rgba(230, 223, 187, 0.61);
+}
+p{
+    font-size: 150%;
+    
+}
+h3{
+    font-size: 200%;
+}
+.linux h1{
+    text-align: center;
+    
+}
